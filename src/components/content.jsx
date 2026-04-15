@@ -18,7 +18,7 @@ export default function Content() {
         <>
             <div className="main1 bg-[#EDEDED] py-3">
                 <div className="max-w-[1140px] mx-auto flex justify-between">
-                    <button className="bg-[#167FFE] lg:relative lg:top-0 absolute top-32 lg:left-0 left-3 text-white text-[18px] font-normal h-[40px] flex items-center justify-center gap-5 p-[0_30px]"><img src={i1} alt="" /> Каталог</button>
+                    <button className="bg-[#167FFE] lg:relative lg:top-0 absolute top-40 lg:left-0 left-3 text-white text-[18px] font-normal h-[40px] flex items-center justify-center gap-5 p-[0_30px]"><img src={i1} alt="" /> Каталог</button>
                     <div className="lg:w-[800px] h-[40px] w-[320px] m-auto border border-gray-400 bg-white flex items-center justify-between">
                         <input className="font-normal pl-3 outline-none border-none w-200" type="text" placeholder="Поиск" />
                         <div>
